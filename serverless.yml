@@ -43,7 +43,7 @@ resources:
         UsagePlanName: "${self:service}-${self:provider.stage}"
 
 functions:
-  login:
+  myFunction:
     handler: handler.myFunction
     events:
       - http: get myFunction
