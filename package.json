@@ -1,0 +1,22 @@
+{
+  "name": "sussol-serverless-template",
+  "version": "2.0.1",
+  "description": "Provides authentication and config for Sustainable Solutions app subscribers",
+  "main": "handler.js",
+  "dependencies": {
+    "httpdispatcher": "^0.4.0",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sussol/sussol-serverless-template.git"
+  },
+  "author": "Chris Petty <christopher.m.petty@gmail.com> (http://sussol.net)",
+  "bugs": {
+    "url": "https://github.com/sussol/sussol-serverless-template/issues"
+  },
+  "homepage": "https://github.com/sussol/sussol-serverless-template"
+}
